@@ -6,7 +6,8 @@ layout: default
 **19:00–23:00 GMT** <br>
 **Chime ID: 6165 55 7960** -- [Download Amazon Chime](https://aws.amazon.com/chime/download)
 
-In this virtual workshop, we aim at covering neural forecasting methods from the ground up, starting from the very basics of deep learning up to recent forecasting model improvements.
+In this virtual workshop, we aim at covering neural forecasting methods from the ground up, starting from the very basics of deep learning up to recent forecasting model improvements. 
+
 Given that the workshop is fully virtual, we will primarily rely on lectures.
 In these, we will focus on the fundamentals of deep learning such as the various architecture types (e.g. feed-forward, convolutional and recurrent neural networks) and the most important breakthroughs that established the strength of neural networks.
 Then, we will see how deep learning can be applied to forecasting by reviewing several state-of-the-art neural forecasting models (e.g., WaveNet, DeepAR, NBEATS and the sequence-to-sequence model family).
@@ -15,6 +16,8 @@ Finally, we will introduce [GluonTS](https://github.com/awslabs/gluon-ts), a tim
 To complement the lectures, we will provide notebooks for the workshop participants to interactively explore some of these ideas themselves.
 Given that the workshop is virtual, this will be self-study largely.
 Notebooks will rely on GluonTS.
+
+In contrast to its 2020 edition, we will have a longer practical session and cover an advanced topic in the theoretical part, probabilistic, multi-variate, neural forecasting models.
 
 ## Presenters
 
@@ -28,19 +31,22 @@ Notebooks will rely on GluonTS.
 
 ## Schedule
 
-Part 1: Deep Learning introduction (~50min)
+Lecture: Deep Learning (45 mins). Start: 6pm
 * Gentle Intro: from linear methods to deep learning
 * Optimization challenges
 * Different architectures for different problem types
 * Probabilistic prediction 
+* Q&A and/or break (~5 mins)
 
-Part 2: Deep Learning for forecasting (~50min)
+Lecture: Deep Learning for forecasting (45 mins). Start: 6:45pm
 * Discriminative vs Generative Models
 * Deep dive into a couple of models
 * Categorization of state-of-the-art
 * Results
 
-Part 3: Deep Learning for forecasting in action (~40min)
+Lecture: Multivariate Forecasting (20 mins). Start: 7:20pm
+
+Practical Session: Deep Learning for forecasting in action (1:40h). Start: 8pm
 
 ## Material
 
@@ -57,7 +63,7 @@ The hands-on session will require Python 3.6 or 3.7, with Jupyter installed.
 The required packages are installed with the following commands (*note: these may vary depending on your OS and Python distribution*).
 
 ```
-pip install --upgrade mxnet==1.6.0 torch==1.6.0
+pip install --upgrade mxnet==1.7.0 torch==1.7.0
 pip install git+https://github.com/awslabs/gluon-ts.git
 ```
 
