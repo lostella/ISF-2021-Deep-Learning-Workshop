@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Sunday, June 27th, 2020** <br>
+**Sunday, June 27th, 2021** <br>
 **19:00–23:00 GMT** <br>
 **Chime ID: 6165 55 7960** -- [Download Amazon Chime](https://aws.amazon.com/chime/download)
 
