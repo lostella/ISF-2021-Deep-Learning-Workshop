@@ -62,7 +62,7 @@ The hands-on session will require Python 3.6 or 3.7, with Jupyter installed.
 The required packages are installed with the following commands (*note: these may vary depending on your OS and Python distribution*).
 
 ```
-pip install --upgrade mxnet==1.7.0 torch==1.7.0
+pip install --upgrade mxnet~=1.8.0 torch~=1.8.0
 pip install git+https://github.com/awslabs/gluon-ts.git
 ```
 
