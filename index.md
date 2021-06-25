@@ -3,7 +3,7 @@ layout: default
 ---
 
 **Sunday, June 27th, 2021** <br>
-**19:00–23:00 GMT** <br>
+**18:00–22:00 GMT** <br>
 **Chime ID: 6064 72 4824** -- [Download Amazon Chime](https://aws.amazon.com/chime/download)
 
 In this virtual workshop, we aim at covering neural forecasting methods from the ground up, starting from the very basics of deep learning up to recent forecasting model improvements. 
@@ -31,22 +31,25 @@ In contrast to its 2020 edition, we will have a longer practical session and cov
 
 ## Schedule
 
-Lecture: Deep Learning (45 mins). Start: 6pm
+Lecture: Deep Learning (40 mins). Start: 6 PM GMT
 * Gentle Intro: from linear methods to deep learning
 * Optimization challenges
 * Different architectures for different problem types
 * Probabilistic prediction 
 * Q&A and/or break (~5 mins)
 
-Lecture: Deep Learning for forecasting (45 mins). Start: 6:45pm
+Lecture: Deep Learning for forecasting (40 mins). Start: 6:45 PM
 * Discriminative vs Generative Models
 * Deep dive into a couple of models
 * Categorization of state-of-the-art
 * Results
+* Q&A and/or break (~5 mins)
 
-Lecture: Multivariate Forecasting (20 mins). Start: 7:20pm
+Lecture: Multivariate Forecasting (20 mins). Start: 7:30 PM
 
-Practical Session: Deep Learning for forecasting in action (1:40h). Start: 8pm
+Break: 7:50 PM until 8:10 PM
+
+Practical Session: Deep Learning for forecasting in action (1:40h). Start: 8:10 PM
 
 ## Material
 
