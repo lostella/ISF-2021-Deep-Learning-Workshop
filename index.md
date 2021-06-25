@@ -71,21 +71,43 @@ pip install git+https://github.com/awslabs/gluon-ts.git
 
 We will be using Amazon Chime, not Zoom for this workshop. Unfortunately, we cannot make a recording available. Below are details.
 
-Download Amazon Chime at [https://aws.amazon.com/chime/download](https://aws.amazon.com/chime/download)
+You can use chime via a browser or download Amazon Chime at [https://aws.amazon.com/chime/download](https://aws.amazon.com/chime/download)
 
 For information about creating an Amazon Chime account, see [https://aws.amazon.com/chime/getting-started](https://aws.amazon.com/chime/getting-started)
 
-Click to join the meeting: [https://chime.aws/6165557960](https://chime.aws/6165557960)
-
-Meeting ID: 6165 55 7960
+Click to join the meeting: [https://chime.aws/6064724824](https://chime.aws/6064724824)
+Meeting ID: 6064 72 4824
 
 A headset is recommended or you may use your computer’s microphone and speakers.
 
 Call in using your phone: [https://aws.amazon.com/chime/dial-in-numbers/](https://aws.amazon.com/chime/dial-in-numbers/)
 Dial-in attendees must enter `*7` to mute or unmute themselves. <br>
 
-To connect from an in-room video system, use one of the following Amazon Chime bridges: <br>
-* SIP video system: 6165557960@meet.chime.in or meet.chime.in
-* H.323 system: 13.248.147.139 or 76.223.18.152
+Some dial in numbers:
+United States Toll-Free (1): +1 855-552-4463
+Meeting ID: 6064 72 4824
+One-click Mobile Dial-in (United States (1)): +1 206-462-5569,,,6064724824#
+United States (1): +1 206-462-5569
+United States (2): +1 929-432-4463
+Australia (1): +61 2 8311 0237
+Austria Toll-Free (1): +43 800 0706266
+Austria Toll-Free (2): +43 800 802724
+Belgium Toll-Free (1): +32 800 81 753
+Belgium Toll-Free (2): +32 800 26 143
+Belgium (1): +32 784 84 496
+Germany Toll-Free (1): +49 800 7238486
+Germany (1): +49 89 220 61384
+Poland (1): +48 22 307 41 80
+International: https://chime.aws/dialinnumbers/
+Dial-in attendees must enter *7 to mute or unmute themselves.
 
-If prompted enter the Meeting PIN: 6165 55 7960
+To connect from an in-room video system, use one of the following Amazon Chime bridges:
+SIP video system: 6064724824@meet.chime.in or meet.chime.in
+H.323 system: 13.248.147.139 or 76.223.18.152
+If prompted enter the Meeting PIN: 6064724824#
+
+To connect from an in-room video system, use one of the following Amazon Chime bridges:
+SIP video system: 6064724824@meet.chime.in or meet.chime.in
+H.323 system: 13.248.147.139 or 76.223.18.152
+If prompted enter the Meeting PIN: 6064724824#
+
