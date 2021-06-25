@@ -4,7 +4,7 @@ layout: default
 
 **Sunday, June 27th, 2021** <br>
 **19:00–23:00 GMT** <br>
-**Chime ID: 6165 55 7960** -- [Download Amazon Chime](https://aws.amazon.com/chime/download)
+**Chime ID: 6064 72 4824** -- [Download Amazon Chime](https://aws.amazon.com/chime/download)
 
 In this virtual workshop, we aim at covering neural forecasting methods from the ground up, starting from the very basics of deep learning up to recent forecasting model improvements. 
 
