@@ -53,7 +53,9 @@ Practical Session: Deep Learning for forecasting in action (1:40h). Start: 8:10 
 
 ## Material
 
-* to be added after the workshop
+Slides: TBA.
+
+GluonTS notebook: [link to notebook on GitHub](https://github.com/lostella/ISF-2021-Deep-Learning-Workshop/blob/main/notebooks/GluonTS_ISF_2021.ipynb).
 
 ## Prerequisites
 
